@@ -8,6 +8,14 @@
 
 This is github repository for [Composer](https://packagist.org/) package. Source code are originally written by [Ko Saturngod](https://github.com/saturngod/Rabbit).
 
+## Installation
+
+Install using composer:
+
+```json
+composer require saturngod/rabbit-php
+```
+
 ##Info
 
 Zawgyi to Unicode has been written in [2011](https://github.com/saturngod/ZG2Uni_JS/commits/master). Now, unicode to zawgyi has been finished.
