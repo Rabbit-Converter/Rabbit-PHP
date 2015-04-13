@@ -1,0 +1,23 @@
+{
+    "name": "saturngod/rabbit-php",
+    "description": "Another Zawgyi <=> Unicode Converter",
+    "keywords": [
+    	"converter",
+    	"zawgyi",
+    	"unicode",
+    	"myanmar-font"
+  	],
+  	"homepage": "http://saturngod.github.io/Rabbit",
+    "authors": [
+        {
+            "name": "Saturngod",
+            "email": "me@saturngod.net"
+        }
+    ],
+    "require": {
+    	"php": ">=5.3.0"
+ 	},
+    "autoload": {
+        "files": ["src/Rabbit.php"]
+    }
+}
