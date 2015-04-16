@@ -1,1 +1,4 @@
 # Rabbit-PHP
+
+## License
+MIT
