@@ -1,6 +1,6 @@
 #Rabbit
 
-![Logo](https://raw.githubusercontent.com/saturngod/Rabbit/gh-pages/rabbit_100.png)
+![Logo](https://avatars3.githubusercontent.com/u/11961573?v=3&s=100)
 
 **Another Zawgyi <=> Unicode Converter**
 
