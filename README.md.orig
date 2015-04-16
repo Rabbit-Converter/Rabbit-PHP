@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Rabbit
 
 ![Logo](https://raw.githubusercontent.com/saturngod/Rabbit/gh-pages/rabbit_100.png)
@@ -45,7 +46,9 @@ Rabbit::zg2uni("သီဟိုဠ္မွ ဉာဏ္ႀကီးရွင္
 Rabbit::uni2zg("သီဟိုဠ်မှ ဉာဏ်ကြီးရှင်သည် အာယုဝဍ်ဎနဆေးညွှန်းစာကို ဇလွန်ဈေးဘေးဗာဒံပင်ထက် အဓိဋ္ဌာန်လျက် ဂဃနဏဖတ်ခဲ့သည်။");
 
 ```
+=======
+# Rabbit-PHP
 
 ## License
-
 MIT
+>>>>>>> 362f0bc2507f5909a50fca968370de2c41fbee0f
