@@ -1,20 +1,8 @@
-#Rabbit
+#Rabbit-PHP
 
 ![Logo](https://avatars3.githubusercontent.com/u/11961573?v=3&s=100)
 
-**Another Zawgyi <=> Unicode Converter**
-
-## Composer Package of Rabbit
-
-This is github repository for [Composer](https://packagist.org/) package. Source code are originally written by [Ko Saturngod](https://github.com/saturngod/Rabbit).
-
-## Installation
-
-Install using composer:
-
-```json
-composer require saturngod/rabbit-php
-```
+**Another Zawgyi <=> Unicode Converter for composer packagist**
 
 ##Info
 
@@ -30,11 +18,13 @@ For Unicode to zawgyi , Parabaik is the GPL license and cannot use in iOS app an
 
 > If you are not using in app or program and just for converting the text , please use [Parabaik](https://github.com/ngwestar/parabaik)
 
-### Demo
+## Installation
 
-- [Web](http://saturngod.github.io/Rabbit/)
-- [Android](https://play.google.com/store/apps/details?id=com.comquas.rabbitzawgyiunicodeconverter)
+Install using composer:
 
+```json
+composer require saturngod/rabbit-php
+```
 
 ## Usage
 
@@ -45,6 +35,14 @@ Rabbit::zg2uni("သီဟိုဠ္မွ ဉာဏ္ႀကီးရွင္
 Rabbit::uni2zg("သီဟိုဠ်မှ ဉာဏ်ကြီးရှင်သည် အာယုဝဍ်ဎနဆေးညွှန်းစာကို ဇလွန်ဈေးဘေးဗာဒံပင်ထက် အဓိဋ္ဌာန်လျက် ဂဃနဏဖတ်ခဲ့သည်။");
 
 ```
+
+## Contributing
+
+1. Fork it ( https://github.com/Rabbit-Converter/Rabbit-PHP )
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create a new Pull Request
 
 ## License
 
