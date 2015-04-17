@@ -1,18 +1,18 @@
-#Rabbit-PHP
+# Rabbit-PHP
 
 ![Logo](https://avatars3.githubusercontent.com/u/11961573?v=3&s=100)
 
 **Another Zawgyi <=> Unicode Converter for composer packagist**
 
-##Info
+## About
 
 Zawgyi to Unicode has been written in [2011](https://github.com/saturngod/ZG2Uni_JS/commits/master). Now, unicode to zawgyi has been finished.
 
-### Why another converter ?
+## Motivation. Why another converter ?
 
-When I was writting [ZG2uni](https://github.com/saturngod/ZG2Uni_JS/) , [Parabaik](https://github.com/ngwestar/parabaik) is not opensource. At that time, I need to use for [MYSTERY ZILLION](http://www.mysteryzillion.org) for converting the whole database to Unicode.
+When I was writting [ZG2uni](https://github.com/saturngod/ZG2Uni_JS/), [Parabaik](https://github.com/ngwestar/parabaik) was not opensource. At that time, I need to use for [MYSTERY ZILLION](http://www.mysteryzillion.org) for converting the whole database to Unicode.
 
-For Unicode to zawgyi , Parabaik is the GPL license and cannot use in iOS app and Android App. So, decided to write new one with **WTFPL license**.
+For Unicode to Zawgyi, Parabaik is under the ~~GPL license and cannot use in iOS app and Android App~~ LGPL. So, I decided to write new one with **WTFPL license**. This library is under MIT License.
 
 > I cannot promise , it's correct 100% after converting.
 
