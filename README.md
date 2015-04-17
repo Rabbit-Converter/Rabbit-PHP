@@ -2,6 +2,8 @@
 
 ![Logo](https://avatars3.githubusercontent.com/u/11961573?v=3&s=100)
 
+[![Build Status](https://travis-ci.org/Rabbit-Converter/Rabbit-PHP.svg?branch=master)](https://travis-ci.org/Rabbit-Converter/Rabbit-PHP)
+
 **Another Zawgyi <=> Unicode Converter for composer packagist**
 
 ## About
