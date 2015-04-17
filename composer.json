@@ -1,14 +1,14 @@
 {
-    "name": "saturngod/rabbit-php",
+    "name": "Rabbit-Converter/Rabbit-PHP",
     "description": "Another Zawgyi <=> Unicode Converter",
     "license": "MIT",
     "keywords": [
-    	"converter",
-    	"zawgyi",
-    	"unicode",
-    	"myanmar-font"
-  	],
-  	"homepage": "http://saturngod.github.io/Rabbit",
+        "converter",
+        "zawgyi",
+        "unicode",
+        "myanmar-font"
+    ],
+    "homepage": "http://saturngod.github.io/Rabbit",
     "authors": [
         {
             "name": "Saturngod",
@@ -20,9 +20,11 @@
         }
     ],
     "require": {
-    	"php": ">=5.3.0"
- 	},
+        "php": ">=5.3.0"
+    },
     "autoload": {
-        "files": ["src/Rabbit.php"]
+        "files": [
+            "src/Rabbit.php"
+        ]
     }
 }
