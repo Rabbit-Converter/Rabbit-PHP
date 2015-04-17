@@ -3,7 +3,7 @@
 class RabbitUnitTest extends PHPUnit_Framework_TestCase
 {
 
-	private $sampleStrings = [];
+	private $sampleStrings = array();
 
 	public function setUp()
 	{
@@ -12,7 +12,7 @@ class RabbitUnitTest extends PHPUnit_Framework_TestCase
 
 	public function tearDown()
 	{
-		$this->sampleStrings = [];
+		$this->sampleStrings = array();
 	}
 
 	/**
