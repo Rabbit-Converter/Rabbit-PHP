@@ -1,6 +1,7 @@
 {
     "name": "saturngod/rabbit-php",
     "description": "Another Zawgyi <=> Unicode Converter",
+    "license": "MIT",
     "keywords": [
     	"converter",
     	"zawgyi",
