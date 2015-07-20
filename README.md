@@ -25,7 +25,7 @@ For Unicode to Zawgyi, Parabaik is under the ~~GPL license and cannot use in iOS
 Install using composer:
 
 ```json
-composer require rabbit-converter/rabbit-php
+composer require "rabbit-converter/rabbit-php:dev-master"
 ```
 
 ## Usage
